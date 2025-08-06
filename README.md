@@ -72,6 +72,69 @@
 
 ## 👨‍👩‍👧‍👦 팀원 소개
 
+<table>
+  <thead>
+    <tr>
+      <th>프로필</th>
+      <th>이름</th>
+      <th>역할</th>
+      <th>GitHub</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/winterholic.png" width="60" style="border-radius: 50%;" />
+      </td>
+      <td align="center">winterholic</td>
+      <td align="center">👑 팀장 / 백엔드</td>
+      <td align="center"><a href="https://github.com/winterholic">@winterholic</a></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/1sunJ.png" width="60" style="border-radius: 50%;" />
+      </td>
+      <td align="center">1sunJ</td>
+      <td align="center">🛠️ 백엔드</td>
+      <td align="center"><a href="https://github.com/1sunJ">@1sunJ</a></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/ajw711.png" width="60" style="border-radius: 50%;" />
+      </td>
+      <td align="center">ajw711</td>
+      <td align="center">🛠️ 백엔드</td>
+      <td align="center"><a href="https://github.com/ajw711">@ajw711</a></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/yeoniii20.png" width="60" style="border-radius: 50%;" />
+      </td>
+      <td align="center">yeoniii20</td>
+      <td align="center">🎨 프론트엔드</td>
+      <td align="center"><a href="https://github.com/yeoniii20">@yeoniii20</a></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/bsu0404.png" width="60" style="border-radius: 50%;" />
+      </td>
+      <td align="center">bsu0404</td>
+      <td align="center">🎨 프론트엔드</td>
+      <td align="center"><a href="https://github.com/bsu0404">@bsu0404</a></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/lsy20140.png" width="60" style="border-radius: 50%;" />
+      </td>
+      <td align="center">lsy20140</td>
+      <td align="center">🎨 프론트엔드</td>
+      <td align="center"><a href="https://github.com/lsy20140">@lsy20140</a></td>
+    </tr>
+  </tbody>
+</table>
+
+
+<!--
 | 역할           | 이름         | GitHub ID |
 |----------------|--------------|-----------|
 | 👑 팀장 / 백엔드 | winterholic | [@winterholic](https://github.com/winterholic) |
@@ -80,6 +143,7 @@
 | 🎨 프론트엔드    | yeoniii20   | [@yeoniii20](https://github.com/yeoniii20) |
 | 🎨 프론트엔드    | bsu0404     | [@bsu0404](https://github.com/bsu0404) |
 | 🎨 프론트엔드    | lsy20140    | [@lsy20140](https://github.com/lsy20140) |
+-->
 
 <br/>
 <br/>
