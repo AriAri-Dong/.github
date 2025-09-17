@@ -22,13 +22,13 @@
 
 동아리를 운영하면서 겪었던 불편함들을 해결하고자 했습니다:
 
-- ❌ 아날로그 중심의 동아리 홍보/운영 방식
-- ❌ 여러 플랫폼에 중복 게시해야 하는 번거로움
-- ❌ 구글폼/메신저로 받은 지원서를 정리하는 수고
-- ❌ 동아리원 활동을 체계적으로 관리하기 어려움
+- 아날로그 중심의 동아리 홍보/운영 방식
+- 여러 플랫폼에 중복 게시해야 하는 번거로움
+- 구글폼/메신저로 받은 지원서를 정리하는 수고
+- 동아리원 활동을 체계적으로 관리하기 어려움
 
-> "이 모든 걸 한 곳에서 깔끔하게 관리할 수 있다면 얼마나 좋을까?"  
-> → 그래서 **아리아리**가 시작되었습니다.
+#### "이 모든 걸 한 곳에서 깔끔하게 관리할 수 있다면 얼마나 좋을까?"  
+#### → 그래서 **아리아리**가 시작되었습니다.
 
 <br/>
 <br/>
@@ -50,11 +50,11 @@
 
 👀 **어떤 점이든 좋습니다!**
 
-- 🐛 버그/오류: 어떤 문제가 있었는지
-- 🧠 사용자 경험: 실제 사용자의 입장에서 어땠는지
-- 💬 기능 제안: 놓치거나 있었으면 하는 기능
-- 🖌️ UI/UX: 디자인이나 사용성 관련 제안
-- ⚙️ 기술 피드백: 구조, 성능 등 개선 아이디어
+#### 🐛 버그/오류: 어떤 문제가 있었는지
+#### 🧠 사용자 경험: 실제 사용자의 입장에서 어땠는지
+#### 💬 기능 제안: 놓치거나 있었으면 하는 기능
+#### 🖌️ UI/UX: 디자인이나 사용성 관련 제안
+#### ⚙️ 기술 피드백: 구조, 성능 등 개선 아이디어
 
 📧 contact: [ariariservice@gmail.com](mailto:ariariservice@gmail.com)
 
@@ -63,9 +63,9 @@
 
 ## 🛠️ 기술 스택
 
-- **Frontend**: Next, TypeScript, Tailwind CSS, Zustand, AWS
-- **Backend**: Spring Boot, JPA, MySQL, AWS
-- **DevOps**: GitHub Actions, Nginx, EC2
+#### **Frontend**: Next, TypeScript, Tailwind CSS, Zustand, AWS
+#### **Backend**: Spring Boot, JPA, MySQL, AWS
+#### **DevOps**: GitHub Actions, Nginx, EC2
 
 <br/>
 <br/>
@@ -150,7 +150,8 @@
 
 ## 📸 스크린샷
 
-<img width="1252" height="916" alt="image" src="https://github.com/user-attachments/assets/66feeb8c-0f88-4508-b715-d14578270217" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/88c66b2f-a8ad-4073-b8f5-9d355077066b" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/d07a41fe-1a71-4e5a-b878-034160b2a852" />
 
 <br/>
 <br/>
@@ -159,9 +160,9 @@
 
 ## 📌 향후 계획
 
-- 🔧 활동 참여율 기반 자동 리포트
-- 💬 실시간 공지/채팅 기능
-- 📅 동아리 캘린더 기능
+#### 🔧 활동 참여율 기반 자동 리포트
+#### 💬 실시간 공지/채팅 기능
+#### 📅 동아리 캘린더 기능
 
 <br/>
 <br/>
