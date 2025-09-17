@@ -63,9 +63,9 @@
 
 ## 🛠️ 기술 스택
 
-#### **Frontend**: Next, TypeScript, Tailwind CSS, Zustand, AWS
-#### **Backend**: Spring Boot, JPA, MySQL, AWS
-#### **DevOps**: GitHub Actions, Nginx, EC2
+#### **[Frontend]**  Next, TypeScript, Tailwind CSS, Zustand, AWS
+#### **[Backend]**  Spring Boot, JPA, MySQL, AWS
+#### **[DevOps]**  GitHub Actions, Nginx, EC2
 
 <br/>
 <br/>
